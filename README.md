@@ -47,7 +47,7 @@ Bradesco Saúde iOS application was created to allow  practical access to the ma
 
 ## Sótão | NetImóveis 
 
-Sótão | NetImóveis was an iOS created to allow NetImoveis(https://www.netimoveis.com/) website customers to consult and interact with properties advertised for sale and rent.
+Sótão | NetImóveis was an iOS created to allow [NetImoveis](https://www.netimoveis.com/) website customers to consult and interact with properties advertised for sale and rent.
 
 
 ##### 🔨Technologies: Objective-C, MVVM,ASIHTTPRequest, Coredata, Firebase, Facebook SDK, MapKit, AVPlayer.
