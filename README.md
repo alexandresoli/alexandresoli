@@ -14,9 +14,9 @@ Smart Auto is an iOS application to read telemetry data in real-time using CLLoc
 ##### 🚀 Platform: 📱iPhone, ⌚️watchOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_1.jpg" width="300" title="Smart Auto">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_2.jpg" width="300" title="Smart Auto">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_3.jpg" width="300" title="Smart Auto">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_1.jpg" width="300" height="600" title="Smart Auto">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_2.jpg" width="300" height="600" title="Smart Auto">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_3.jpg" width="300" height="600" title="Smart Auto">
 </a>
 </p>
 
@@ -76,9 +76,9 @@ Corretor Tech was an iOS app created to display the latest news from Corretor Te
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="300" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="300" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="200" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="200" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="200" title="Corretor Tech">
 </a>
 </p>
 
