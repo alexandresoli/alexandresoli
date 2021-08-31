@@ -86,7 +86,7 @@ Corretor Tech was an iOS app created to display the latest news from Corretor Te
 
 SkinPad was created to allow the sale of customized notebook and phone cases through mobile totems.
 
-##### 🔨Technologies: Objective-C, ImageKit,ASIHTTPRequest, Coredata.
+##### 🔨Technologies: Objective-C, ImageKit, ASIHTTPRequest, Coredata.
 ##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="#" target="_blank">
@@ -98,8 +98,10 @@ SkinPad was created to allow the sale of customized notebook and phone cases thr
 
 ## Presente Surpresa
 
+Presente Surpresa was an iPhone application created for an internal campaign by the company BRQ, where employees could exchange Christmas gifts in the form of messages, video and images.
 
-##### 🔨Technologies: Swift, Flow Coordinators, Push Notifications.
+
+##### 🔨Technologies: Objective-C, Push Notifications, Firebase, ASIHTTPRequest, Coredata.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
@@ -110,17 +112,20 @@ SkinPad was created to allow the sale of customized notebook and phone cases thr
 
 ## Convenção Unimed
 
+Convenção Unimed was an iOS application created to allow the user of a Unimed company event to consult the list of sessions, interact with the speakers and discover the best route to the rooms.
 
-##### 🔨Technologies: Swift, Push Notifications.
-##### 🚀Platform: 📱iOS, iPad.
+##### 🔨Technologies: Objective-C, Push Notifications, MapKit, ASIHTTPRequest, Coredata.
+##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="300" title="Convenção Unimed"></a>
 </p>
 
 ## Dashboard Interativo
 
+Dashboard Interativo was a customized cross-platform dashboard solution created to run on iOS, Android and Smart TVs applications.
 
-##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
+
+##### 🔨Technologies: PhoneGap, Sencha Touch, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
@@ -131,8 +136,9 @@ SkinPad was created to allow the sale of customized notebook and phone cases thr
 
 ## Legislação de Saúde Suplementar
 
+iPad application created to allow navigation between the laws of the Brazilian National Health Agency, allowing users to search, mark texts, bookmark and share information.
 
-##### 🔨Technologies: Swift, Core Data, Core Image.
+##### 🔨Technologies: Objective-C, Core Data, ASIHTTPRequest.
 ##### 🚀Platform: iPad
 <p align="center">
 <a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="600" title="Tracing Board"></a>
