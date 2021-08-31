@@ -76,9 +76,9 @@ Corretor Tech was an iOS app created to display the latest news from Corretor Te
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="200" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="200" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="200" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="300" title="Corretor Tech">
 </a>
 </p>
 
