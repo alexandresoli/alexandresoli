@@ -35,7 +35,7 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="600" title="Portal do Segurado"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="400" title="Portal do Segurado"></a>
 </p>
 
 ## Sótão | NetImóveis
@@ -108,7 +108,7 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Push Notifications.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="300" title="Convenção Unimed"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="600" title="Convenção Unimed"></a>
 </p>
 
 ## Dashboard Interativo
@@ -119,8 +119,8 @@ It was developed in 2017. It uses [Swiping Carousel](https://github.com/PPacie/S
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_1.jpg" width="900" title="Dashboard Interativo">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_2.jpg" width="900" title="Dashboard Interativo">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_1.jpg" width="300" title="Dashboard Interativo">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_2.jpg" width="300" title="Dashboard Interativo">
 </a>
 </p>
 
@@ -131,7 +131,7 @@ This was my first independent Swift app. It uses **Core Data** as persistency ma
 ##### 🔨Technologies: Swift, Core Data, Core Image.
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="300" title="Tracing Board"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="600" title="Tracing Board"></a>
 </p>
 
 ## Sorteio CIAB
