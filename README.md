@@ -2,7 +2,7 @@
 [Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo. It was created on October 26, 2015, and launched in Brazil on November 3 of the same year. In 2020, it reached the milestone of 20 million registered users and became the most used national streaming service in Brazil.
 
 ##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, Bitrise, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL).
-##### 🚀Platform: 📱iOS, iPad and Apple TV.
+##### 🚀 Platform: 📱iPhone, iPad and Apple TV.
 <p align="center">
 <a href="https://apps.apple.com/br/app/globoplay/id536321738" target="_blank"><img src="https://s2.glbimg.com/K1vPZsAqnbnVIiKFNtHZpBuFlSs=/0x0:1316x617/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/V/0/PxVPzZTlGAct8MBfl3UQ/globoplay-catalogo.jpg" width="900" title="Globoplay"></a>
 </p>
@@ -11,7 +11,7 @@
 Smart Auto is an iOS application to read telemetry data in real-time using CLLocation from vehicles and rate how the users are driving their cars, using different metrics like speed and braking power to give discounts on the insurance monthly fee.
 
 ##### 🔨Technologies: Swift, MVVM, Bitrise, Push Notifications, Firebase, Real, Alamofire, Coredata.
-##### 🚀Platform: 📱iOS, ⌚️watchOS
+##### 🚀 Platform: 📱iPhone, ⌚️watchOS
 <p align="center">
 <a href="#" target="_blank">
   <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_1.jpg" width="300" title="Smart Auto">
@@ -26,7 +26,7 @@ Smart Auto is an iOS application to read telemetry data in real-time using CLLoc
 ##### 🔨Technologies: Swift, Realm, Core Bluetooth, Charts, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://gluconightwatch.com/" target="_blank"><img src="images/gnw/gnw.png" width="900" title="GlucoNightWatch"></a>
+<a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="900" title="GlucoNightWatch"></a>
 </p>
 
 ## Portal do Segurado
