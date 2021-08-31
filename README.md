@@ -29,14 +29,21 @@ AppCi is an iOS application that allows brokers and real estate agencies to mana
 <a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="600" title="AppCi"></a>
 </p>
 
-## Portal do Segurado
-Portal do Segurado was an exclusive iPad application made to allow Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
+## Bradesco Saude
 
-##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
-##### 🚀Platform: iPad
+Bradesco Saúde iOS application was created to allow  practical access to the main services and information of Bradesco Seguros health plan, such as:
+- Digital card
+- Digital Health - Telemedicine
+- Referenced Network Search
+- Reimbursement services
+- Status of password requests for medical-hospital procedures that require prior verification of coverage, such as surgeries
+
+##### 🔨Technologies: Objective-C, Swift, Alamofire, Coredata, MVVM Architecture.
+##### 🚀Platform: 📱iPhone, iPad, ⌚️watchOS
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="400" title="Portal do Segurado"></a>
+<a href="https://apps.apple.com/br/app/bradesco-sa%C3%BAde/id432088616#?platform=iphone" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="400" title="Bradesco Saude"></a>
 </p>
+
 
 ## Sótão | NetImóveis 
 
@@ -152,6 +159,15 @@ iPad application created for a prize draw at a CIAB event.
 ##### 🚀Platform: iPad
 <p align="center">
 <a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CIAB.jpg" width="400" title="Sorteio CIAB"></a>
+</p>
+
+## Portal do Segurado
+Portal do Segurado was an exclusive iPad application made to allow Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
+
+##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
+##### 🚀Platform: iPad
+<p align="center">
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="400" title="Portal do Segurado"></a>
 </p>
 
 ## Gatos
