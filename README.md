@@ -108,7 +108,7 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Push Notifications.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="600" title="Convenção Unimed"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="300" title="Convenção Unimed"></a>
 </p>
 
 ## Dashboard Interativo
@@ -141,7 +141,7 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 ##### 🔨Technologies: Objective-C, WatchKit, App Extensions, AVPlayer.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS, iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CIAB.jpg" width="300" title="Sorteio CIAB"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CIAB.jpg" width="400" title="Sorteio CIAB"></a>
 </p>
 
 ## Gatos
@@ -150,8 +150,8 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 ##### 🚀Platform: iPad
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_1.jpg" width="300" title="Gatos">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_2.jpg" width="300" title="Gatos">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_1.jpg" width="250" title="Gatos">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_2.jpg" width="250" title="Gatos">
 </a>
 </p>
 
