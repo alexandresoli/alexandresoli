@@ -148,7 +148,10 @@ iPad application created to allow navigation between the laws of the Brazilian N
 ##### 🔨Technologies: Objective-C, Core Data, ASIHTTPRequest.
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="600" title="Tracing Board"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="300" title="Catalogo de Leis">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/mainhttps://github.com/alexandresoli/alexandresoli/blob/main/catalogo_leis_2.png" width="300" title="Catalogo de Leis">
+</a>
 </p>
 
 ## Sorteio CIAB
