@@ -30,7 +30,7 @@ AppCi is an iOS application that allows brokers and real estate agencies to mana
 </p>
 
 ## Portal do Segurado
-Portal do Insured is an iOS application that allows Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
+Portal do Segurado was an exclusive iPad application made to allow Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
 
 ##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
 ##### 🚀Platform: iPad
@@ -38,10 +38,12 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 <a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="400" title="Portal do Segurado"></a>
 </p>
 
-## Sótão | NetImóveis
+## Sótão | NetImóveis 
+
+Sótão | NetImóveis was an iOS created to allow NetImoveis(https://www.netimoveis.com/) website customers to consult and interact with properties advertised for sale and rent.
 
 
-##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
+##### 🔨Technologies: Objective-C, MVVM,ASIHTTPRequest, Coredata, Firebase, Facebook SDK, MapKit.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
@@ -53,8 +55,9 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 
 ## Publicidade Imobiliária
 
+Publicidade imobiliaria was an iOS app created to display the latest news form https://publicidadeimobiliaria.com/ website.
 
-##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
+##### 🔨Technologies: Objective-C, MVVM,ASIHTTPRequest, Coredata, Firebase, Facebook SDK.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
@@ -66,7 +69,10 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 
 ## Corretor Tech
 
-##### 🔨Technologies: Swift, AVC Player, iBeacons, Push Notifications.
+Corretor Tech was an iOS app created to display the latest news from Corretor Tech website.
+
+
+##### 🔨Technologies: Objective-C, MVVM,ASIHTTPRequest, Coredata, Firebase, Facebook SDK.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
@@ -78,8 +84,10 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 
 ## SkinPad
 
-##### 🔨Technologies: Swift, Flow Coordinators.
-##### 🚀Platform: 📱iOS
+SkinPad was created to allow the sale of customized notebook and phone cases through mobile totems.
+
+##### 🔨Technologies: Objective-C, ImageKit,ASIHTTPRequest, Coredata.
+##### 🚀Platform: 📱iOS, iPad
 <p align="center">
 <a href="#" target="_blank">
   <img src="https://github.com/alexandresoli/alexandresoli/blob/main/skinpad_1.png" width="300" title="SkinPad">
