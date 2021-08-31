@@ -115,7 +115,7 @@ It was developed in 2017. It uses [Swiping Carousel](https://github.com/PPacie/S
 ##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/DASHBOARD.jpg" width="300" title="Dashboard Interativo"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/DASHBOARD.jpg" width="900" title="Dashboard Interativo"></a>
 </p>
 
 ## Legislação de Saúde Suplementar
@@ -125,7 +125,7 @@ This was my first independent Swift app. It uses **Core Data** as persistency ma
 ##### 🔨Technologies: Swift, Core Data, Core Image.
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli#:~:text=LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="300" title="Tracing Board"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="300" title="Tracing Board"></a>
 </p>
 
 ## Sorteio CIAB
@@ -143,7 +143,10 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CATS.jpg" width="300" title="Gatos"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_1.jpg" width="300" title="Gatos">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/cats_2.jpg" width="300" title="Gatos">
+</a>
 </p>
 
 *Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
