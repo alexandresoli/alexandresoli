@@ -1,21 +1,23 @@
 ## Globoplay
 [Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo. It was created on October 26, 2015, and launched in Brazil on November 3 of the same year. In 2020, it reached the milestone of 20 million registered users and became the most used national streaming service in Brazil.
 
-##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, CI, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL).
+##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, Bitrise, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL).
 ##### 🚀Platform: 📱iOS, iPad and Apple TV.
 <p align="center">
 <a href="https://apps.apple.com/br/app/globoplay/id536321738" target="_blank"><img src="https://s2.glbimg.com/K1vPZsAqnbnVIiKFNtHZpBuFlSs=/0x0:1316x617/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/V/0/PxVPzZTlGAct8MBfl3UQ/globoplay-catalogo.jpg" width="900" title="Globoplay"></a>
 </p>
 
 ## Smart Auto
-[Smart Auto](https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525) is an iOS & Apple Watch app made using **SwiftUI** and **Combine** as I've been playing around with the latest Apple frameworks since day one after the WWDC.
-It allows you to get real-time marine buoys data and get aware when the surf is good at a glance.
-Too often swell arrives later than predicted, by checking the buoy data you can determine if the swell has arrived. If not, you can go back to bed =)
+Smart Auto is an iOS application to read telemetry data in real-time using CLLocation from vehicles and rate how the users are driving their cars, using different metrics like speed and braking power to give discounts on the insurance monthly fee.
 
-##### 🔨Technologies: SwiftUI, Combine, MVVM, Bitrise, Notifications, No third party libraries.
+##### 🔨Technologies: Swift, MVVM, Bitrise, Push Notifications, Firebase, Real, Alamofire, Coredata.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/buoywatch-noaa-surf-buoys/id1479691525" target="_blank"><img src="images/buoywatch/buoywatch.png" width="900" title="Buoywatch"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_1.jpg" width="300" title="Smart Auto">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_2.jpg" width="300" title="Smart Auto">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/smart_auto_3.jpg" width="300" title="Smart Auto">
+</a>
 </p>
 
 ## AppCi
