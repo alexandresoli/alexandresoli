@@ -62,7 +62,7 @@ Sótão | NetImóveis was an iOS created to allow NetImoveis(https://www.netimov
 
 ## Publicidade Imobiliária
 
-Publicidade imobiliaria was an iOS app created to display the latest news form https://publicidadeimobiliaria.com/ website.
+Publicidade imobiliaria was an iOS app created to display the latest news from [Publicidade Imobiliaria](https://publicidadeimobiliaria.com/)  website.
 
 ##### 🔨Technologies: Objective-C, MVVM,ASIHTTPRequest, Coredata, Firebase, Facebook SDK.
 ##### 🚀Platform: 📱iOS
