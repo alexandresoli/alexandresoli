@@ -158,6 +158,7 @@ iPad application created for a prize draw at a CIAB event.
 
 This was my first iOS app, a cat breed catalog that allowed me to apply the basic concepts studied on the iOS platform. By this time i had to deal with manual memory management and the platform limitations.
 
+##### 🔨Technologies: Objective-C.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
