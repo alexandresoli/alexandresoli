@@ -1,7 +1,7 @@
 ## Globoplay
 [Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo with over 20 million registered users and became the most used national streaming service in Brazil.
 
-##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, Bitrise, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL), AVPlayer.
+##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, Bitrise, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL Apollo API), AVPlayer.
 ##### 🚀 Platform: 📱iPhone, iPad and Apple TV.
 <p align="center">
 <a href="https://apps.apple.com/br/app/globoplay/id536321738" target="_blank"><img src="https://s2.glbimg.com/K1vPZsAqnbnVIiKFNtHZpBuFlSs=/0x0:1316x617/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/V/0/PxVPzZTlGAct8MBfl3UQ/globoplay-catalogo.jpg" width="900" title="Globoplay"></a>
