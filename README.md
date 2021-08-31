@@ -33,7 +33,7 @@ AppCi is an iOS application that allows brokers and real estate agencies to mana
 Portal do Insured is an iOS application that allows Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
 
 ##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
-##### 🚀Platform: 📱iOS
+##### 🚀Platform: iPad
 <p align="center">
 <a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="600" title="Portal do Segurado"></a>
 </p>
