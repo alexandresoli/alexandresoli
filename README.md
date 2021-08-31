@@ -41,7 +41,7 @@ Bradesco Saúde iOS application was created to allow  practical access to the ma
 ##### 🔨Technologies: Objective-C, Swift, Alamofire, Coredata, MVVM Architecture.
 ##### 🚀Platform: 📱iPhone, iPad, ⌚️watchOS
 <p align="center">
-<a href="https://apps.apple.com/br/app/bradesco-sa%C3%BAde/id432088616#?platform=iphone" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/bradesco_saude.png" width="400" title="Bradesco Saude"></a>
+<a href="https://apps.apple.com/br/app/bradesco-sa%C3%BAde/id432088616#?platform=iphone" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/bradesco_saude.png" width="600" title="Bradesco Saude"></a>
 </p>
 
 
