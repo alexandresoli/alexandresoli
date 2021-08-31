@@ -26,7 +26,7 @@ AppCi is an iOS application that allows brokers and real estate agencies to mana
 ##### 🔨Technologies: Objective-C, Swift, MVC, Unit Tests, Coredata, Firebase, Push Notifications, MapKit, ASIHTTPRequest
 ##### 🚀Platform: 📱iPhone, iPad, Android.
 <p align="center">
-<a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="900" title="AppCi"></a>
+<a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="600" title="AppCi"></a>
 </p>
 
 ## Portal do Segurado
