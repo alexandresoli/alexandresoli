@@ -96,7 +96,10 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Flow Coordinators, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/PRESENTE_SURPRESA.jpg" width="300" title="Presente Surpresa"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/presente_1.jpg" width="300" title="Presente Surpresa">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/presente_2.jpg" width="300" title="Presente Surpresa">
+</a>
 </p>
 
 ## Convenção Unimed
@@ -115,7 +118,10 @@ It was developed in 2017. It uses [Swiping Carousel](https://github.com/PPacie/S
 ##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/DASHBOARD.jpg" width="900" title="Dashboard Interativo"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_1.jpg" width="900" title="Dashboard Interativo">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/dashboard_2.jpg" width="900" title="Dashboard Interativo">
+</a>
 </p>
 
 ## Legislação de Saúde Suplementar
