@@ -41,8 +41,15 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ## Sótão | NetImóveis
 [MyPostcard](https://apps.apple.com/us/app/mypostcard-postcard-app/id858686797) lets you create, personalise and send printed photo postcards and greeting cards worldwide from your iPhone or iPad. It has a total of more than 1 million downloads and 4,000 5-star ratings. I've mostly worked on updating the Objective-C codebase, bug fixes and adding new features. Worked on it during 2018/2019.
 
-##### 🔨Technologies: Objective-C, Swift, PhotoEditor SDK.
-##### 🚀Platform: 📱iOS, iPad.
+##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/sotao_1.jpg" width="300" title="Sótão | NetImóveis">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/sotao_2.jpg" width="300" title="Sótão | NetImóveis">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/sotao_3.jpg" width="300" title="Sótão | NetImóveis">
+</a>
+</p>
 
 ## Publicidade Imobiliária
 [SUPERKORB](https://web.archive.org/web/20190714151041/https://superkorb.com/) is a smart shopping platform for fast-moving consumer goods. The app compares your basket with all major vendors and finds the best-priced offer. Check-out and payment are conveniently handled within the app. It combines major online shops to offer over 100.000 articles. Worked on it in 2018.
@@ -50,7 +57,11 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, RxSwift, Clean Architecture.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://web.archive.org/web/20190714151041/https://superkorb.com/" target="_blank"><img src="images/superkorb/superkorb.png" width="900" title="SUPERKORB"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_1.jpg" width="300" title="Publicidade Imobiliária">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_2.jpg" width="300" title="Publicidade Imobiliária">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_3.jpg" width="300" title="Publicidade Imobiliária">
+</a>
 </p>
 
 ## Corretor Tech
@@ -59,7 +70,11 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, AVC Player, iBeacons, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/ca/app/bus-dich-weg/id1315973814" target="_blank"><img src="images/bdw/bdw.png" width="900" title="SUPERKORB"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="300" title="Corretor Tech">
+</a>
 </p>
 
 ## SkinPad
@@ -68,7 +83,11 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Flow Coordinators.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/spenn/id1189735564?ls=1" target="_blank"><img src="images/spenn/spenn.png" width="900" title="SPENN"></a>
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/skinpad_1.png" width="300" title="SkinPad">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/skinpad_2.png" width="300" title="SkinPad">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/skinpad_3.png" width="300" title="SkinPad">
+</a>
 </p>
 
 ## Presente Surpresa
@@ -77,7 +96,7 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Flow Coordinators, Push Notifications.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/fr/app/travelkit-for-mobile-traveller/id1146520530" target="_blank"><img src="images/travelKit/travelKit.png" width="900" title="TravelKit"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/PRESENTE_SURPRESA.jpg" width="300" title="Presente Surpresa"></a>
 </p>
 
 ## Convenção Unimed
@@ -86,7 +105,7 @@ Portal do Insured is an iOS application that allows Bradesco insurance company c
 ##### 🔨Technologies: Swift, Push Notifications.
 ##### 🚀Platform: 📱iOS, iPad.
 <p align="center">
-<a href="https://apps.apple.com/us/app/iata-economics/id1111567152" target="_blank"><img src="images/iata/iata.png" width="900" title="IATA"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/UNIMED.jpg" width="300" title="Convenção Unimed"></a>
 </p>
 
 ## Dashboard Interativo
@@ -96,7 +115,7 @@ It was developed in 2017. It uses [Swiping Carousel](https://github.com/PPacie/S
 ##### 🔨Technologies: Swift, CloudKit, Push Notifications, Chat.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/swappy-books/id1198626384" target="_blank"><img src="images/swappyBooks/swappyBooks.png" width="900" title="Swappy Books"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/DASHBOARD.jpg" width="300" title="Dashboard Interativo"></a>
 </p>
 
 ## Legislação de Saúde Suplementar
@@ -106,7 +125,7 @@ This was my first independent Swift app. It uses **Core Data** as persistency ma
 ##### 🔨Technologies: Swift, Core Data, Core Image.
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="https://apps.apple.com/us/app/tracing-board/id1040566627" target="_blank"><img src="images/tracingBoard/tracingBoard.jpg" width="900" title="Tracing Board"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli#:~:text=LEGISLACAO_SAUDE_SUPLEMENTAR.jpg" width="300" title="Tracing Board"></a>
 </p>
 
 ## Sorteio CIAB
@@ -116,7 +135,7 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 ##### 🔨Technologies: Objective-C, WatchKit, App Extensions, AVPlayer.
 ##### 🚀Platform: 📱iOS, ⌚️watchOS, iPad
 <p align="center">
-<a href="https://web.archive.org/web/20160304181919/http://surfate.com/" target="_blank"><img src="images/surfate/surfate.png" width="900" title="Surfate"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CIAB.jpg" width="300" title="Sorteio CIAB"></a>
 </p>
 
 ## Gatos
@@ -124,7 +143,7 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 
 ##### 🚀Platform: iPad
 <p align="center">
-<a href="https://apps.apple.com/us/app/big-mac-index-app/id908062605" target="_blank"><img src="images/bigMacIndex/bigMacIndex.png" width="900" title="Big Mac Index"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/CATS.jpg" width="300" title="Gatos"></a>
 </p>
 
 *Do not hesitate to contact me if you would like to get a promo code to have a look at any of my indie apps.*
