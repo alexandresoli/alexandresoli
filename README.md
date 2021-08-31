@@ -1,5 +1,5 @@
 ## Globoplay
-[Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo. It was created on October 26, 2015, and launched in Brazil on November 3 of the same year. In 2020, it reached the milestone of 20 million registered users and became the most used national streaming service in Brazil.
+[Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo with over 20 million registered users and became the most used national streaming service in Brazil.
 
 ##### 🔨Technologies: Swift, Viper + Clean Architecture, UI + Unit Tests, Bitrise, Facebook SDK, Push Notifications, Universal Links, Alamofire, Kingfisher, REST API (GraphQL).
 ##### 🚀 Platform: 📱iPhone, iPad and Apple TV.
