@@ -23,19 +23,19 @@ Smart Auto is an iOS application to read telemetry data in real-time using CLLoc
 ## AppCi
 AppCi is an iOS application that allows brokers and real estate agencies to manage their portfolio, clients and negotiations.
 
-##### 🔨Technologies: Objective-C, Swift, Coredata, Firebase, Push Notifications, MapKit, ASIHTTPRequest
+##### 🔨Technologies: Objective-C, Swift, MVC, Unit Tests, Coredata, Firebase, Push Notifications, MapKit, ASIHTTPRequest
 ##### 🚀Platform: 📱iPhone, iPad, Android.
 <p align="center">
 <a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="900" title="AppCi"></a>
 </p>
 
 ## Portal do Segurado
-[MyBestPhotobook](https://apps.apple.com/us/app/photobook-app-mybestphotobook/id1402582617) allows you to crete and mail printed photo books easily in less than five minutes. Simply upload your photos to the app, edit and organize the layout however you like best. The most remarkable feature was an all-in-one photo picker which allows the user to import pictures from the device as well as from Instagram, Facebook, Dropbox, Google Photos and Google Drive. The picker was also implemented in [MyPostcard](#MyPostcard) app later on. Built on 2018/2019.
+Portal do Insured is an iOS application that allows Bradesco insurance company customers to consult their policies, request assistance and reimbursement.
 
-##### 🔨Technologies: Swift, Realm, PhotoEditor SDK, Clean Architecture.
+##### 🔨Technologies: Objective-C, Coredata, MVC Architecture, ASIHTTPRequest.
 ##### 🚀Platform: 📱iOS
 <p align="center">
-<a href="https://apps.apple.com/us/app/photobook-app-mybestphotobook/id1402582617" target="_blank"><img src="images/myBestPhotobook/myBestPhotobook.png" width="900" title="MyBestPhotobook"></a>
+<a href="#" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/BRADESCO_SEGUROS.jpg" width="600" title="Portal do Segurado"></a>
 </p>
 
 ## Sótão | NetImóveis
@@ -122,7 +122,7 @@ It was developed in 2014/2015. It allowed the user to get a realtime picture of 
 ## Gatos
 [Big Mac Index](https://apps.apple.com/us/app/big-mac-index-app/id908062605) was my first iOS app published on the AppStore. It intends to show whether currencies are at their *"correct"* value. This index was invented by The Economist in 1986. The main purpose of developing this app was to put in practice everything I've been learning on online courses, books, etc. It was developed in 2013/2014 using **Objective-C**.
 
-##### 🚀Platform: 📱iOS
+##### 🚀Platform: iPad
 <p align="center">
 <a href="https://apps.apple.com/us/app/big-mac-index-app/id908062605" target="_blank"><img src="images/bigMacIndex/bigMacIndex.png" width="900" title="Big Mac Index"></a>
 </p>
