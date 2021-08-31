@@ -10,7 +10,7 @@
 ## Smart Auto
 Smart Auto is an iOS application to read telemetry data in real-time using CLLocation from vehicles and rate how the users are driving their cars, using different metrics like speed and braking power to give discounts on the insurance monthly fee.
 
-##### 🔨Technologies: Swift, MVVM, Bitrise, Push Notifications, Firebase, Real, Alamofire, Coredata.
+##### 🔨Technologies: Swift, MVVM, Bitrise, Push Notifications, Firebase, Real, Alamofire, Coredata, MapKit.
 ##### 🚀 Platform: 📱iPhone, ⌚️watchOS
 <p align="center">
 <a href="#" target="_blank">
@@ -21,12 +21,12 @@ Smart Auto is an iOS application to read telemetry data in real-time using CLLoc
 </p>
 
 ## AppCi
-[GlucoNigthWatch](https://gluconightwatch.com/) is an app that provides customizable alarm and remote monitoring for GNSentry device users. People with diabetes and their relatives can benefit from the customizable alarm system provided by the app when used with GNSentry and Free Freestyle. The GNSentry bracelet sends a measure of the Freestyle every 5 minutes via Bluetooth to the app, then it triggers the alarms when necessary.
+AppCi is an iOS application that allows brokers and real estate agencies to manage their portfolio, clients and negotiations.
 
-##### 🔨Technologies: Swift, Realm, Core Bluetooth, Charts, Push Notifications.
-##### 🚀Platform: 📱iOS
+##### 🔨Technologies: Objective-C, Swift, Coredata, Firebase, Push Notifications, MapKit, ASIHTTPRequest
+##### 🚀Platform: 📱iPhone, iPad, Android.
 <p align="center">
-<a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="900" title="GlucoNightWatch"></a>
+<a href="https://www.youtube.com/c/BrestateBr/videos" target="_blank"><img src="https://github.com/alexandresoli/alexandresoli/blob/main/APPCI_2.png" width="900" title="AppCi"></a>
 </p>
 
 ## Portal do Segurado
