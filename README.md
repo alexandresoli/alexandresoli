@@ -1,3 +1,7 @@
+# :large_orange_diamond: Mobile Apps
+
+
+  
 ## Globoplay
 [Globoplay](https://globoplay.globo.com/) is a Brazilian subscription video on demand service owned by Grupo Globo with over 20 million registered users and became the most used national streaming service in Brazil.
 
