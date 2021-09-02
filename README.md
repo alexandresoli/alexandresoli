@@ -97,7 +97,7 @@ Pizza delivery app like Glovo, Uber eats and others.
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/99pizzas.jpg" width="300" title="99pizzas">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/99pizzas.jpg" width="600" title="99pizzas">
 </a>
 </p>
 
