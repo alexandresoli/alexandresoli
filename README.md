@@ -68,9 +68,9 @@ Publicidade imobiliaria was an iOS app created to display the latest news from [
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_1.jpg" width="300" title="Publicidade Imobiliária">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_2.jpg" width="300" title="Publicidade Imobiliária">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_3.jpg" width="300" title="Publicidade Imobiliária">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_1.jpg" width="250" title="Publicidade Imobiliária">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_2.jpg" width="250" title="Publicidade Imobiliária">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/publicidade_3.jpg" width="250" title="Publicidade Imobiliária">
 </a>
 </p>
 
@@ -83,9 +83,9 @@ Corretor Tech was an iOS app created to display the latest news from Corretor Te
 ##### 🚀Platform: 📱iOS
 <p align="center">
 <a href="#" target="_blank">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="300" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="300" title="Corretor Tech">
-  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="300" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_1.jpg" width="250" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_2.jpg" width="250" title="Corretor Tech">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/corretor_tech_3.jpg" width="250" title="Corretor Tech">
 </a>
 </p>
 
