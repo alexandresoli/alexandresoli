@@ -89,6 +89,18 @@ Corretor Tech was an iOS app created to display the latest news from Corretor Te
 </a>
 </p>
 
+## 99Pizzas
+
+Pizza delivery app like Glovo, Uber eats and others.
+
+##### 🔨Technologies: Objective-C, AFNetworking, Coredata.
+##### 🚀Platform: 📱iOS
+<p align="center">
+<a href="#" target="_blank">
+  <img src="https://github.com/alexandresoli/alexandresoli/blob/main/99pizzas.jpg" width="300" title="99pizzas">
+</a>
+</p>
+
 ## SkinPad
 
 SkinPad was created to allow the sale of customized notebook and phone cases through mobile totems.
